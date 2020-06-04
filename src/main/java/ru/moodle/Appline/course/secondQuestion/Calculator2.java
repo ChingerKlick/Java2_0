@@ -1,10 +1,10 @@
-package ru.moodle.Appline.course.firstQuestion;
+package ru.moodle.Appline.course.secondQuestion;
 
 import java.util.Scanner;
 
 public class Calculator2 {
     //For test, need use main class.
-    public static void main(String[] args) {
+    public static void calc() {
         /**
          * A calculator that produces addition, subtraction, multiplication, division.
          */
